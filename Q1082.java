@@ -10,6 +10,7 @@ public class Q1082 {
       return o2 - o1;
    });
 
+
    public static void main(String[] args) throws NumberFormatException, IOException {
       
       BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
