@@ -23,7 +23,7 @@ public class Main {
 		}
 		
 		for(int i = 1 ; i <= n ; i++) {
-			arr[i] = pq.poll();
+			arr[i] = pq.poll(); 
 		}
 		
 		for(int i = 1; i <= k ; i++) {
